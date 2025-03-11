@@ -1,4 +1,4 @@
 # grupa2
 Repozytorium dla grupy 2
 
-# nagłówek 24
+# nagłówek 2433
