@@ -11,3 +11,6 @@ Repozytorium dla grupy 2
 # nagłówek 5
 
 # zmiany
+
+
+# instrukcja  obslugi
